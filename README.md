@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aggregatordigital
-- 👀 I’m interested in ...Ethical AI, Cybersecurity, Front End and All things Full Stack 
-- 🌱 I’m currently learning ...ML, FullStack, NLP
+- 👀 I’m interested in ...craating microsaas tools Ethical AI, Cybersecurity, Front End and All things Full Stack 
+- 🌱 I’m always learning ...ML, FullStack, NLP
 - 💞️ I’m looking to collaborate on ...Projects
 - 📫 How to reach me ...
 
